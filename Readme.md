@@ -1,4 +1,9 @@
-# Thermal Printer + QR Codes + Bitcoin + Ruby
+-------------------------
+### Run paperbank-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 check other branches for future enhancements
 
